@@ -1,6 +1,6 @@
 <template>
-  <NuxtLayout name="detailpage">
-    <div class="mb-2">
+  <NuxtLayout name="custom">
+    <div class="container mb-2">
       <h3>{{ house.建案 }} 建案詳細資料</h3>
       <!-- <div class="image-container">
         <img :src="`@/assets/fig/${house.Figure}`" alt="" />

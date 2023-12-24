@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="container">
     <h1>城市探索 - A7重劃區 都市規劃</h1>
     A7站區開發案興辦事業計畫
     <ul>

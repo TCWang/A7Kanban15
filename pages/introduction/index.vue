@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="container">
     <h1>城市探索 - A7重劃區 地區介紹</h1>
     參考資料:
     <a href="https://www.leju.com.tw/page_blog/view/1253"
