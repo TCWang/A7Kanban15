@@ -48,7 +48,7 @@
 
 <script setup>
 useHead({
-  title: "交通指南",
+  title: "城市探索-交通指南",
   meta: [
     {
       name: "description",

@@ -7,6 +7,6 @@
 
 <script setup>
 useHead({
-  title: "新推建案",
+  title: "城市探索-新推建案",
 });
 </script>

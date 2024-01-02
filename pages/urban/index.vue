@@ -81,7 +81,7 @@
 
 <script setup>
 useHead({
-  title: "都市規劃",
+  title: "城市探索-都市規劃",
   meta: [
     {
       name: "description",

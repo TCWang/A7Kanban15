@@ -59,7 +59,7 @@
 
 <script setup>
 useHead({
-  title: "地區介紹",
+  title: "城市探索-地區介紹",
   meta: [
     {
       name: "description",

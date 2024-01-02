@@ -180,7 +180,7 @@ const route = useRoute();
 const name = route.params.name;
 
 useHead({
-  title: "A7建案 - " + name,
+  title: "城市探索-A7建案: " + name,
 });
 
 const house = houses.find((r) => r.建案 === name);

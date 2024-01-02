@@ -9,6 +9,6 @@
 
 <script setup>
 useHead({
-  title: "房市行情",
+  title: "城市探索-房市行情",
 });
 </script>
