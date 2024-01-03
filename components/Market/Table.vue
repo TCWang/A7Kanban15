@@ -16,8 +16,8 @@ const housesOrganized = {
       <p>
         資料來源; Facebook A7重劃區大小事 /
         <a
-          href="https://www.facebook.com/groups/1951117865015671/permalink/6606775252783219/?mibextid=uJjRxr"
-          >李世豪 2023/11/11</a
+          href="https://www.facebook.com/groups/1951117865015671/permalink/6790404564420286/?mibextid=uJjRxr"
+          >李世豪 2024/01/01</a
         >。
       </p>
       <div class="">
@@ -31,9 +31,11 @@ const housesOrganized = {
             :AQ1="house.實價登錄數Q1"
             :AQ2="house.實價登錄數Q2"
             :AQ3="house.實價登錄數Q3"
+            :AQ4="house.實價登錄數Q4"
             :PQ1="house.實價平均Q1"
             :PQ2="house.實價平均Q2"
             :PQ3="house.實價平均Q3"
+            :PQ4="house.實價平均Q4"
             :index="index"
           />
         </div>
