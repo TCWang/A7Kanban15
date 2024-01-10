@@ -11,7 +11,7 @@ const housesOrganized = {
 <template>
   <div class="">
     <div class="">
-      <h3>A7建案 熱銷排行榜 - 2023 Q1-Q3</h3>
+      <h3>A7建案 熱銷排行榜 - 2023 Q1-Q4</h3>
 
       <p>
         資料來源; Facebook A7重劃區大小事 /
