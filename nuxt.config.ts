@@ -4,6 +4,18 @@ export default defineNuxtConfig({
   modules: ["@nuxt/image-edge", "@vueuse/nuxt", "@nuxtjs/tailwindcss"],
   css: ["@/assets/css/tailwind.css"],
 
+  plugins: [
+    {
+      src: "~/plugins/chart.js",
+      mode: "client",
+    },
+  ],
+  vite: {
+    define: {
+      "process.env.DEBUG": false,
+    },
+  },
+
   app: {
     head: {
       title: "A7社區網站-城市探索",
